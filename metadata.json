@@ -1,0 +1,6 @@
+{
+  "name": "CASSATAVI — Contemporary Luxury Fashion",
+  "description": "Contemporary luxury unisex fashion brand combining refined silhouettes, premium quality, timeless designs, individuality, and inclusivity. Beyond the ordinary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
